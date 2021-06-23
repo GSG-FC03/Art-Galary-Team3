@@ -1,0 +1,35 @@
+.Container{
+	position: relative;
+	width: 375px;
+	height: 812px;
+	
+	background: #FFFFFF;
+	border-radius: 40px;
+}
+.backbtn{
+  position: absolute;
+  width: 10px;
+  height: 18px;
+  left: 17px;
+  top: 41px;
+  color: #FD7C4B;
+  font-size: 2.5rem;
+
+}
+.text_one{
+position: absolute;
+width: 328px;
+height: 40px;
+left: 16px;
+top: 68px;
+margin-top: -20px;
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-style: normal;
+font-weight: bold;
+font-size: 30px;
+line-height: 40px;
+font-feature-settings: 'liga' off;
+color: #474747;
+
+}
+
