@@ -1,9 +1,6 @@
 
-@media (min-width:375px) {
+@media (min-width:375px){
   .Container{
-    flex: relative;
-    width: 375px;
-    height: 812px;
     background: #FFFFFF;
     border-radius: 40px;
   }
@@ -33,12 +30,86 @@
   font-family:  'Barlow', sans-serif;
   font-style: normal;
   font-weight: bold;
-  font-size: 20px;
+  font-size: 30px;
   line-height: 40px;
   font-feature-settings: 'liga' off;
   color: #474747;
   
   }
+.img-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 10px;
+  }
+
+  .main-box1 {
+    background: url(/images/mini\ cover.svg);
+    filter: drop-shadow(0px 10px 15px rgba(49, 87, 91, 0.38));
+    border-radius: 16px;
+    background-size: cover;
+    width: 1000px;
+    height: 600px;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .main-box2 {
+    display: flex;
+    flex-direction: row;
+    margin-top: -20px;
+  }
+  .box2{
+      display: flex;
+      flex-direction: column;
+  }
+  .img1{
+    height: 500px;
+    width: 500px;
+    background: url(/images/bottom\ image.svg);
+    filter: drop-shadow(0px 10px 15px rgba(195, 185, 175, 0.63));
+    border-radius: 12px;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .img2{
+    height: 350px;
+    width: 470px;
+    background: url(/images/last\ images.svg);
+    filter: drop-shadow(0px 10px 15px rgba(195, 185, 175, 0.63));
+    border-radius: 12px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: -50px;
+  }
+  .img3{
+    height: 500px;
+    width: 500px;
+    background: url(/images/glasses.svg);
+    filter: drop-shadow(0px 10px 15px rgba(195, 185, 175, 0.63));
+    border-radius: 12px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 50px;
+  }
+  .img4{
+    height: 850px;
+    width: 450px;
+    background: url(/images/WYN.svg);
+    filter: drop-shadow(0px 10px 15px rgba(195, 185, 175, 0.63));
+    border-radius: 12px;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .img5{
+        height: 500px;
+        width: 500px;
+        background: url(/images/moon.svg);
+        filter: drop-shadow(0px 10px 15px rgba(195, 185, 175, 0.63));
+        border-radius: 12px;
+        background-repeat: no-repeat;
+        background-size: cover;
+  }
+  
 }
 
 
