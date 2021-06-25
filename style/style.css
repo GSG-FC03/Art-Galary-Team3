@@ -1,0 +1,44 @@
+@media (max-width:375px) and (min-width:320px) {
+    .heading-2 {
+    padding: 20px 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 200;
+    color: #686868;
+  }
+  h3 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 200;
+    color: #979EA6;
+  }
+    .horizontal-boxes {
+        display: flex;
+        flex-direction: row;
+        justify-content: flex-start;
+        align-items: flex-start;
+        padding: 20px 10px;
+        margin: auto;
+
+      }
+      .oil-paintings {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+  
+      }
+      .wall-arts {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    
+      }
+      .museums {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+       
+      }
+  }
+  
