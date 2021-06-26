@@ -1,7 +1,7 @@
 
 @media (min-width:375px){
   .Container{
-    background: #FFFFFF;
+    background: rgb(215, 221, 221);
     border-radius: 40px;
   }
   body{
@@ -150,7 +150,33 @@
         align-items: center;
        
       }
+      section {
+        display: flex;
+        border-radius: 40px;
+      }
+      .garally-footer {
+        width: 1024px;
+        height: 91px;
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        align-self: flex-end;
+        color: orangered;
+        background-color: #ffffff;
+        border-radius: 40px;
+        margin: auto;
+      }
+      i {
+        width: clac(100% / 5);
+        height: 17.5%;
+        color: rgba(253, 129, 74, 1);
+        transform: scale(1.5,1.5); 
+      }
+      .fa-plus-circle {
+        flex: stretch;
+        transform: scale(3,3);
   
+      }
   
 }
 
