@@ -1,0 +1,154 @@
+@media (min-width: 375px) {
+	* {
+		padding: 0;
+		margin: 0;
+		box-sizing: border-box;
+	  }
+	 .allpage {
+		border-radius: 50px;
+		width: 100%;
+		
+	  }
+	  .container-2 {
+		width: 90vw;
+		padding-top: 30px;
+		margin: auto;
+	  
+	  }
+	
+	  body {
+		background-image: url(../images/cover.svg);
+		background-repeat: no-repeat;
+		background-size: cover;
+		 width: 375px;
+		height: 812px; 
+	  }
+	
+	  .header {
+		display: flex;
+		flex-direction: row;
+		justify-content: space-between;
+		align-items: flex-start;
+	  }
+	
+	  .overview{
+		position: absolute;
+		width: 370.23px;
+		height: 570px;
+		left: 0px;
+		top: 242px;
+		background: white;
+       border-radius: 15px; 
+		/* border-radius:39.4909px 39.4909px 0px 0px; */
+	  }
+	
+	  .overview p{
+		position: absolute;
+		width: 152px;
+		height: 45px;
+		left: 110.61px;
+		top: -25px;
+		background:#FD814A;
+		border-radius: 10px;
+		text-align: center;
+		padding: 10px;
+		font-family: Verdana, Geneva, Tahoma, sans-serif;
+		color: white;
+		
+	  }
+	
+	  .digital{
+	position: absolute;
+	width: 137px;
+	height: 18px;
+	left: 117.61px;
+	top: 303px;
+	top:  280px;
+	color: #babec1;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	font-size: 14px;
+	
+	  }
+	  .info{
+		position: absolute;
+		width: 278px;
+		height: 214px;
+		left: 78.61px;
+		top: 303px;
+	  }
+	
+	  .info h5{
+		font-family: Verdana, Geneva, Tahoma, sans-serif;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 14px;
+		line-height: 18px;
+		color: #babec1;
+	  }
+	  .info p{
+		font-family: Verdana, Geneva, Tahoma, sans-serif;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 14px;
+		line-height: 21px;
+		color: #272727;
+	  }
+	
+	 .Bio{
+		 position: absolute;
+		font-family: Verdana, Geneva, Tahoma, sans-serif;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 14px;
+		color: #555555;
+		width: 260px;
+	   height: 126px;
+	   left: 79.61px;
+	   top: 528px;
+	  
+	  }
+	    .all{
+	  display: flex;
+	  justify-content: center;
+	  align-items: center;
+	  flex-wrap: wrap;
+  
+
+	 
+  } 
+
+  .audio{
+	position: absolute;
+	width: 227px;
+	height: 39px;
+	left: 78.61px;
+	top: 686px;
+	
+  }
+  .audio h5{
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 14px;
+	line-height: 18px;
+	color: #babec1;
+  }
+
+  .audio p{
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 12px;
+	line-height: 21px;
+	color: #272727;
+  }
+  .palyer{
+	  position: absolute;
+	  width: 370.23px;
+      height: 467px;
+      top: 736px;
+	  left:68.68px;
+  }
+}
+   
+ 
