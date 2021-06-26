@@ -111,17 +111,21 @@
   }
   .allpage {
     border-radius: 50px;
+    
   }
   .container-2 {
     width: 90vw;
     padding-top: 30px;
     margin: auto;
+  
   }
 
   body {
     background-image: url(../images/cover.svg);
     background-repeat: no-repeat;
     background-size: cover;
+     width: 375px;
+    height: 812px; 
   }
   .header {
     display: flex;
