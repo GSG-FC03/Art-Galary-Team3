@@ -1,10 +1,10 @@
 # Art-Galary-Team3
 
 # WHO?
--Hala Abu salim
--Heba Tanani
--Feras mohna
--Abedelrhamn Kallousa
+* Abdulrahman J Kallousa
+ * Ferass Mohana
+ * Heba Al-Tanani
+ * Hala Abusalim
 
 # WHY?
 -The purpose from this project is to train on the basics of dealing with GitHub workflow and using a good page layout via using semantic HTML and Responsive design and how being in team will be effective and efficiency in achieve the goal of the project and improve our communication skills as a team.
