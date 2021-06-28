@@ -17,3 +17,6 @@ First, we started by discussing the project and understanding the requirements a
 Secondly, we started with the first part of the project, and it was divided into tasks, considering the time specified for the delivery of the project.
 Every team member takes his task and do it then show it to the rest of the team to gain feedback and if there is a Debug code or an errors we fix it together to improve our skills and so on.
 We keep in touch with each other and also with the team leader.
+
+# Demo
+https://gsg-fc03.github.io/art-gallery2/
